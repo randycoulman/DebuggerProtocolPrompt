@@ -1,5 +1,7 @@
 # DebuggerProtocolPrompt
 
+![Maintenance Status](https://img.shields.io/badge/maintenance-active-green.svg)
+
 Prompt for a method protocol when defining a new method in the
 debugger.
 
